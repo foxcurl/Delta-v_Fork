@@ -40,5 +40,9 @@ artifact-trigger-hint-regular-gases = Standard atmospheric gases
 artifact-trigger-hint-plasma = Gaseous plasma
 artifact-trigger-hint-land = Active deceleration
 artifact-trigger-hint-examine = Examination
+<<<<<<< HEAD
 artifact-trigger-hint-medical = Therapeutic chemicals
 
+=======
+artifact-trigger-hint-resurrection = Resurrection
+>>>>>>> aefad2565f (Added Resurrection trigger and more effects)
