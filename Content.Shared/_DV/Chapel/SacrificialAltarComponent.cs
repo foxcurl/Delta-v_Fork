@@ -37,7 +37,7 @@ public sealed partial class SacrificialAltarComponent : Component
     /// Random amount to reduce glimmer by.
     /// </summary>
     [DataField]
-    public MinMax GlimmerReduction = new(30, 60);
+    public MinMax GlimmerReduction = new(100, 200);
 
     [DataField]
     public ProtoId<EntityTablePrototype> RewardPool = "PsionicSacrificeRewards";
