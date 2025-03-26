@@ -200,3 +200,6 @@
   - type: ArtifactGasTrigger
     possibleGas:
     - Plasma
+
+#don't add in new targetdepth values until you have a few
+#or else it will skew heavily towards a few options.
